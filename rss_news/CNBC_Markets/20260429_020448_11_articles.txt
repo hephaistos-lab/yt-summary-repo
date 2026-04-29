@@ -1,0 +1,71 @@
+RSS Feed: CNBC_Markets
+Fetched At: 2026-04-29 02:04:48 UTC
+Lookback Hours: 24
+============================================================
+
+[1] Wednesday's big stock stories: What’s likely to move the market in the next trading session
+Time: 2026-04-28 23:04:19 UTC
+Link: https://www.cnbc.com/2026/04/28/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html
+Summary: The S&P 500 and the Nasdaq Composite retreated from their records on Tuesday as semiconductor stocks tumbled.
+------------------------------------------------------------
+
+[2] These bonds protect against inflation. How to optimize them for your portfolio
+Time: 2026-04-28 19:28:57 UTC
+Link: https://www.cnbc.com/2026/04/28/these-bonds-protect-against-inflation-how-to-optimize-them-for-your-portfolio.html
+Summary: Treasury inflation-protected securities are back in the mix as investors grapple with worries over higher prices.
+------------------------------------------------------------
+
+[3] Traders bet Nvidia's stock will return to record highs soon
+Time: 2026-04-28 19:16:18 UTC
+Link: https://www.cnbc.com/2026/04/28/traders-bet-nvidias-stock-will-return-to-record-highs-soon.html
+Summary: Shares of Nvidia fell a bit on Tuesday after a WSJ report raised questions about OpenAI growth targets and the whole AI complex.
+------------------------------------------------------------
+
+[4] Josh Brown likes next-generation aviation stock as long-shot play on potential electric aircraft boom
+Time: 2026-04-28 18:51:42 UTC
+Link: https://www.cnbc.com/2026/04/28/josh-brown-likes-next-gen-aviation-stock-as-play-on-electric-aircraft.html
+Summary: Joby Aviation is a good way to play the emerging eVTOL industry, Josh Brown told CNBCs "Halftime Report" on Tuesday.
+------------------------------------------------------------
+
+[5] This name powering AI reports earnings after the bell. Watch these levels, according to the charts
+Time: 2026-04-28 18:09:57 UTC
+Link: https://www.cnbc.com/2026/04/28/this-name-powering-ai-reports-earnings-after-the-bell-watch-these-levels-according-to-the-charts.html
+Summary: Todd Gordon takes a look at this power stock ahead of earnings.
+------------------------------------------------------------
+
+[6] Defense stocks have floundered since the Iran war began. Here's why
+Time: 2026-04-28 17:23:58 UTC
+Link: https://www.cnbc.com/2026/04/28/defense-stocks-have-floundered-since-the-iran-war-began-heres-why.html
+Summary: Defense stocks haven't been the slam-dunk play some investors expected.
+------------------------------------------------------------
+
+[7] OpenAI's growth may be sputtering. These are the stocks most at risk
+Time: 2026-04-28 16:46:07 UTC
+Link: https://www.cnbc.com/2026/04/28/openais-growth-may-be-sputtering-these-are-the-stocks-most-at-risk.html
+Summary: Oracle, Amazon, Microsoft could see hiccups as other chatbots gain market share
+------------------------------------------------------------
+
+[8] This industrial giant is flashing signs of a bullish turnaround. Trading the bounce with options
+Time: 2026-04-28 14:30:02 UTC
+Link: https://www.cnbc.com/2026/04/28/this-industrial-giant-is-flashing-signs-of-a-bullish-turnaround-trading-the-bounce-with-options.html
+Summary: Nishant Pant breaks down this call spread.
+------------------------------------------------------------
+
+[9] Micron Technology may double as AI boom stokes demand for memory hardware, D.A. Davidson  says
+Time: 2026-04-28 13:21:39 UTC
+Link: https://www.cnbc.com/2026/04/28/micron-technology-may-double-thanks-to-ai-boom-da-davidson-says.html
+Summary: The proliferation of AI increases demand for Micron's DRAM and NAND nodes and other memory technology, according to D.A. Davidson.
+------------------------------------------------------------
+
+[10] Here are Tuesday's biggest analyst calls: Nvidia, Apple, Tesla, Micron, Palantir, Microsoft & more
+Time: 2026-04-28 12:18:57 UTC
+Link: https://www.cnbc.com/2026/04/28/tuesday-biggest-street-analyst-calls-like-nvidia.html
+Summary: Here are Tuesday's biggest calls on Wall Street.
+------------------------------------------------------------
+
+[11] Apple gets a price target hike from UBS ahead of earnings
+Time: 2026-04-28 11:09:55 UTC
+Link: https://www.cnbc.com/2026/04/28/apple-gets-a-price-target-hike-from-ubs-ahead-of-earnings.html
+Summary: Apple should see its stock price go up as it continues to secure the electrical components needed to power storage for its iPhones and MacBooks, per UBS.
+------------------------------------------------------------
+
